@@ -6,7 +6,7 @@ Hello! I'm **Rayen Guedri**, a **4th-year Software Engineering student at ESprit
 
 ## 🚀 Projects  
 - 🔹 **Project Management Service** – A robust backend solution for managing projects, tasks, and team collaborations.  
-- 🎨 **Crafty** – An innovative platform for creative professionals to showcase their work and collaborate on projects.  
+- 🎨 **Crafty** – An innovative  platform for creative professionals to showcase their work and collaborate on projects.  
 
 ---
 
@@ -33,16 +33,15 @@ Hello! I'm **Rayen Guedri**, a **4th-year Software Engineering student at ESprit
 
 ### ☁️ DevOps & Tools  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  
+
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)  
+ 
 
 ---
 
 ## 📬 Contact  
 📧 **Email:** [rayen.guedri@esprit.tn](mailto:rayen.guedri@esprit.tn)  
-💻 **GitHub:** [github.com/yourusername](#)  
-🔗 **LinkedIn:** [linkedin.com/in/yourusername](#)  
+
 
 ---
 
